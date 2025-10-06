@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Saksham+Gupta;AI+%26+ML+Enthusiast;Generative+AI+Builder;Hackathon+Winner+🏆" alt="Typing Animation" />
+</p>
+
+
 # 💫 About Me:
 💻 What I Do<br><br>🌐 Frontend Development (HTML, CSS, JavaScript, React.js)<br><br>🧠 Learning Backend & Exploring AI/ML<br><br>⚙️ Building projects that solve practical problems<br><br>📊 Experienced with databases like MySQL, MongoDB, PostgreSQL
 
