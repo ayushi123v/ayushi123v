@@ -1,10 +1,42 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Ayushi+Varshney;B.Tech+Student+%7C+3rd+Year;Frontend+Developer+%7C+React.js+%7C+JavaScript;Building+AI+%26+Web+Projects" alt="Typing Animation" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=100&section=header" width="100%"/>
 </p>
 
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00F5FF&size=30&center=true&width=900&lines=Hey,+I'm+Ayushi+Varshney+👋;Welcome+to+My+Profile+🚀;Building+Projects+with+Code+%26+Creativity+💻;AI+%26+ML+Learner+💻" alt="Typing SVG">
+  </a>
+</h1>
 
-# 💫 About Me:
-💻 What I Do<br><br>🌐 Frontend Development (HTML, CSS, JavaScript, React.js)<br><br>🧠 Learning Backend & Exploring AI/ML<br><br>⚙️ Building projects that solve practical problems<br><br>📊 Experienced with databases like MySQL, MongoDB, PostgreSQL
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<div>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Ayushi Varsheby</h1>
+
+<h3 align="center">Full-Stack Developer | AI & ML Learner | 🧠 Driven by Curiosity & Code</h3>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayushi-Varshney&label=Profile%20views&color=00F5FF&style=flat" alt="Profile views" />
+</p>  
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
+## 🌟 About Me  
+- 🎓 B.Tech CSE student with a keen interest in **Full-Stack Development & Emerging Tech**  
+- 🤖 Exploring **Machine Learning, Generative AI & Smart Automation**  
+- 💻 Learning **frontend & backend development** to become a **full-stack developer**  
+- 🚀 Love creating projects that mix **tech, design & real-world purpose**  
+- 🎨 Beyond code — I **sketch**, and find art in everything I create ✨
+
 
 
 ## 🌐 Socials:
