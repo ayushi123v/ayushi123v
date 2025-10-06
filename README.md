@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Saksham+Gupta;AI+%26+ML+Enthusiast;Generative+AI+Builder;Hackathon+Winner+🏆" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=ayushi varshney;AI+%26+ML+Enthusiast;Generative+AI+Builder;Hackathon+Winner+🏆" alt="Typing Animation" />
 </p>
 
 
