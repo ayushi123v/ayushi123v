@@ -14,7 +14,7 @@
 </h3>
 
 <div>
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Ayushi Varsheby</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Ayushi Varshney</h1>
 
 <h3 align="center">Full-Stack Developer | AI & ML Learner | 🧠 Driven by Curiosity & Code</h3>
 
